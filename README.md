@@ -1,9 +1,9 @@
-# tugas-day-16
+# Tugas Day 16
 
-discount.js
+discount.js     : Menampilkan value harga setelah diskon harga
 
-ganjilgenap.js
+ganjilgenap.js  : Menampilkan hasil fungsi plat ganjil dan genap
 
-getdomain.js
+getdomain.js    : menampilkan string domain hasil ekstrak dari baris url
 
-median.js
+median.js       : menampilkan median character dari baris string
